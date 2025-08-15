@@ -19,5 +19,4 @@ This part involves building a **speech emotion recognition (SER) system** using 
 - **Libraries:** Librosa, TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib   
 
 ## **📌 Expected Outcome**  
-- A functional **speech emotion recognition model** with high accuracy.  
-- A fully responsive **portfolio website** showcasing personal skills and projects.  
+- A functional **speech emotion recognition model** with high accuracy.   
