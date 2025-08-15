@@ -1,17 +1,11 @@
-# CODEALPHA-Internship-Task2
-Here's a solid project description for **GitHub and Google Colab**:  
 
----
-
-# **Emotion Recognition from Speech & Personal Portfolio Website**  
-📌 **Internship Project - CODEALPHA**  
+# **Emotion Recognition from Speech**    
 
 ## **📌 Project Overview**  
 This project consists of two parts:  
-1. **Emotion Recognition from Speech** – Developing a deep learning model to analyze and classify emotions from spoken audio.  
-2. **Personal Portfolio Website** – Creating a **responsive and interactive** personal portfolio showcasing skills, projects, and resume.  
+**Emotion Recognition from Speech** – Developing a deep learning model to analyze and classify emotions from spoken audio.  
 
-## **📌 Task 2: Emotion Recognition from Speech**  
+## **📌 Task: Emotion Recognition from Speech**  
 This part involves building a **speech emotion recognition (SER) system** using **deep learning** and **speech processing techniques**. The model will classify spoken sentences into emotions like **happiness, anger, sadness, fear, and neutrality**.  
 
 ### **📌 Key Features**  
